@@ -21,14 +21,6 @@ O Encharcada é um sistema inteligente de monitoramento de alagamentos que utili
 - IoT e lógica embarcada
 - Modelagem matemática para previsão de risco
 
-## Estrutura do Projeto
-
-- `/arduino/`: Código do protótipo físico
-- `/python/`: Scripts de análise e modelagem
-- `/frontend/`: Landing page e interface visual
-- `video_pitch.md`: Roteiro completo do vídeo
-- `README.md`: Este arquivo
-
 ## Autor
 
 - **Thiago Luza**
