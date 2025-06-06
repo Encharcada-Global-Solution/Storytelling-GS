@@ -1,5 +1,5 @@
 - **Thiago Luza**
-- Estudante de Engenharia de Software – FIAP
+- Engenharia de Software
 - RM: 562219
 
 # Encharcada  - Solução Tecnológica contra Enchentes
