@@ -1,3 +1,7 @@
+- **Thiago Luza**
+- Estudante de Engenharia de Software – FIAP
+- RM: 562219
+
 # Encharcada  - Solução Tecnológica contra Enchentes
 
 Este repositório contém os arquivos e documentação relacionados ao projeto **Encharcada**, desenvolvido como solução tecnológica para o desafio das enchentes no Brasil.
@@ -20,12 +24,6 @@ O Encharcada é um sistema inteligente de monitoramento de alagamentos que utili
 - HTML, CSS e JS (Landing page)
 - IoT e lógica embarcada
 - Modelagem matemática para previsão de risco
-
-## Autor
-
-- **Thiago Luza**
-- Estudante de Engenharia de Software – FIAP
-- RM: 562219
 
 ## Disciplinas Envolvidas
 
