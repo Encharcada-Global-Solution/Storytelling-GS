@@ -25,7 +25,7 @@ O Encharcada é um sistema inteligente de monitoramento de alagamentos que utili
 
 - **Thiago Luza**
 - Estudante de Engenharia de Software – FIAP
-- RM: [Seu RM]
+- RM: 562219
 
 ## Disciplinas Envolvidas
 
